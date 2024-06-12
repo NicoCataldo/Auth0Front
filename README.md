@@ -2,7 +2,7 @@
 React SPA with Auth0 and react-router-dom example project
 
 # Usuarios
-admin@test.com.ar
-Admin_Test
-cliente1@test.com.ar
-Cliente_Test
+User: admin@test.com.ar
+Password: Admin_Test
+User: cliente1@test.com.ar
+Password: Cliente_Test
